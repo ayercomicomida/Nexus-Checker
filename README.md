@@ -15,8 +15,11 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 </p>
 
 <br>
- 
+
+ <div align="center">
+     
 ❗ `Notice: This is a simple project and it was not designed to be perfect.` ❗
+ </div>
 
 ## ⚙ Features
 
