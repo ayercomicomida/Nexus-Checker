@@ -15,10 +15,9 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 </p>
 
 <br>
+ 
+❗ `Notice: This is a simple project and it was not designed to be perfect.` ❗
 
-❗ `Notice: This is a simple project and it was not designed to be perfect.`
-
-<br>
 
 ### ⚒️ Utilidades Gerais
 - Profile Panel 🟢
@@ -30,6 +29,8 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 - Braintree 🟢
 - Stripe 🔴
 - Erede 🔴
+
+<br>
 
 ---
 
