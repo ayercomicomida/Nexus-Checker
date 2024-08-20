@@ -24,6 +24,8 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 - Admin Panel 🟢
 - User Panel 🟢
 - API Login 🟢
+- API Register 🟢
+- API Card Checker 🟢
 
 ### 💳 Gateways
 - Braintree 🟢
