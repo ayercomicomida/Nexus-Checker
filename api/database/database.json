@@ -1,0 +1,16 @@
+{
+    "user1": {
+        "id": "00001",
+        "plan": "admin",
+        "username": "Sirkeira",
+        "password": "944603280",
+        "expiration_date": "9999-12-31"
+    },
+    "user2": {
+        "id": "00002",
+        "plan": "admin",
+        "username": "Cirqueira",
+        "password": "12345678",
+        "expiration_date": "2025-09-17"
+    }
+}

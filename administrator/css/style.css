@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+
+/* Estilo do formulário */
+
+.login-form {
+    transition: box-shadow 0.3s ease;
+    background-color: hsl(236, 51%, 18%);
+    padding: 20px 40px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 27, 177, 0.274);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-form:hover {
+    transition: box-shadow 0.3s ease;
+    box-shadow: 0px 0px 10px rgba(0, 43, 184, 0.712);
+}
+
+.login-form img {
+    display: block;
+    margin: 0 auto 15px auto; /* Centraliza horizontalmente e adiciona margem inferior */
+}
+
+/* Estilo dos campos de entrada */
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 330px;
+}
+
+/* Estilo do botão de envio */
+.login-form input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 330px;
+}
+
+/* Alteração de cor ao passar o mouse sobre o botão */
+.login-form input[type="submit"]:hover {
+    background-color: #00264e;
+}
+
+/* Estilo da mensagem de erro */
+.error-message {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: red;
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+/* Placeholder text styling */
+.login-form input::placeholder {
+    color: #888;
+}
+
+/* Responsividade */
+@media (max-width: 400px) {
+    .login-form {
+        width: 100%;
+        padding: 20px;
+    }
+}
