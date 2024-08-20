@@ -1,6 +1,6 @@
 <div align="center">
     <img alt="logo" loading="lazy" width="100" height="100" decoding="async" data-nimg="1" srcSet="./assets/logo/logo.png, ./assets/logo/logo.png" src="./assets/logo/logo.png" />
-    <h1>Nexus Center Source Code</h1>
+    <h1>Nexus Center CC Checkere</h1>
 </div>
 
 <br>
