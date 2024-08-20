@@ -1,13 +1,11 @@
-
-<img alt="logo" loading="lazy" width="50" height="50" decoding="async" data-nimg="1" srcSet="../assets/logo/logo.png, ../assets/logo/logo.png" src="../assets/logo/logo.png" />
-<h1 align="center">Nexus Center Source Code</h1>
+<div align="center">
+    <img alt="logo" loading="lazy" width="100" height="100" decoding="async" data-nimg="1" srcSet="./assets/logo/logo.png, ./assets/logo/logo.png" src="./assets/logo/logo.png" />
+    <h1>Nexus Center Source Code</h1>
+</div>
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/a548e873-e289-4de1-88fc-3e4024809552">
 </p>
-
-<br>
-
 
 <br>
 
