@@ -3,9 +3,13 @@
     <h1>Nexus Center Source Code</h1>
 </div>
 
+<br>
+
 <p>
 O Nexus Center Source Code é o código-fonte de um painel CHK, projetado para a verificação de cartões de crédito (CCs). Ele utiliza uma API desenvolvida em Python para gerenciar e processar informações de usuários de forma eficiente e segura.
 </p>
+
+<br>
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/a548e873-e289-4de1-88fc-3e4024809552">
