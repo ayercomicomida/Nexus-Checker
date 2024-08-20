@@ -19,7 +19,7 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 ❗ `Notice: This is a simple project and it was not designed to be perfect.` ❗
 
 
-### ⚒️ Utilidades Gerais
+### ⚒️ General Utilities
 - Profile Panel 🟢
 - Admin Panel 🟢
 - User Panel 🟢
