@@ -18,13 +18,13 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
  
 ❗ `Notice: This is a simple project and it was not designed to be perfect.` ❗
 
-## Features
+## ⚙ Features
 
 - Check multiple credit card numbers simultaneously
 - Categorize results into Live, Dead, and Unknown statuses
 - Responsive design for various screen sizes
 
-## Technologies Used
+## 💻 Technologies Used
 
 - HTML5
 - CSS3
@@ -32,7 +32,7 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 - PHP
 - Python
 
-<br>
+##
 
 ### ⚒️ General Utilities
 - Profile Panel 🟢
