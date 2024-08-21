@@ -44,6 +44,7 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 - API Login 🟢
 - API Register 🟢
 - API Card Checker 🟢
+- Mass Checker 🟢
 - Proxy Support 🔴
 
 ### 💳 Gateways
