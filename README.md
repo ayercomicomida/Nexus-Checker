@@ -16,6 +16,15 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 
 <br>
 
+### **Don't forget to start the API in the 'api' folder and install requirements:**
+
+```shell script
+cd api
+pip install flask
+pip install requests
+python api.py
+```
+
  <div align="center">
      
 ❗ `Notice: This is a simple project and it was not designed to be perfect.` ❗
