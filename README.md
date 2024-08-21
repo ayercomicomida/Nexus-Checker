@@ -52,6 +52,21 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 
 <br>
 
+<br>
+
+<div align="">
+    <p>
+        USA : If you want to buy gates contact me on Telegram or Discord
+    </p>
+    <p>
+        BRA : Se você quiser comprar gates entre em contato comigo no Telegram ou Discord
+    </p>
+</div>
+
+[![Telegram](https://img.shields.io/badge/Telegram-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CirqueiraDev)
+
+<br>
+
 ---
 
 <h3 align="center">Want to help me stay motivated to continue projects like this? Your contribution is essential!</h3>
@@ -59,9 +74,8 @@ is the source code for a CHK panel designed for credit card (CC) verification. I
 
 **💰 Donation Links:**
 #### Donate Links
-
-<b>BTC</b>: <code>bc1qynerkzreqgeuhfywfelhz45df2a73f38cmctzu</code></br>
-<b>ETH</b>: <code>0xb685A72EdA6a016A43d75D269FdFa6315C80F8c9</code></br>
+- <b>BTC</b>: <code>bc1qynerkzreqgeuhfywfelhz45df2a73f38cmctzu</code></br>
+- <b>ETH</b>: <code>0xb685A72EdA6a016A43d75D269FdFa6315C80F8c9</code></br>
 
 ---
 
